@@ -3,7 +3,7 @@ React chat app with socket.io and node js
 
 ## Login screen
 
-[<img src="./images/Admin Login.PNG" width=33% />]
+[<img src="./images/Login.PNG" width=33% />]
 
 ## Chat screen 1 screen
 
