@@ -16,7 +16,7 @@ export default function Chat() {
     const [name, setName] = useState('');
     const [room, setRoom] = useState('');
     const [users, setUsers] = useState('');
-    const ENDPOINT = 'https://server-chats-app.herokuapp.com/';
+    const ENDPOINT = 'http://localhost:5000/';
     const [message, setMessage] = useState('');
     const [messages, setMessages] = useState([]);
     useEffect(() => {
